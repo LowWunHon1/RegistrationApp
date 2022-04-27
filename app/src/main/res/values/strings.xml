@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name = "message1">Registration Form</string>
+    <string name = "message2">Welcome to Adventure Learning Club!</string>
+</resources>
